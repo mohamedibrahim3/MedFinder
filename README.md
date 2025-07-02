@@ -1,11 +1,26 @@
 # <del>Eshfeeny</del> MedFinder Android Application
 
-## Overview
-MedFinder is an Android application designed to help users find the nearest pharmacy with available medicines, skincare products, and other health-related items. The app also provides additional healthcare features, including:
-- Medication reminders
-- Body Mass Index (BMI) and Basal Metabolic Rate (BMR) calculations
-- Medicine search through prescription input or image recognition
-- AI-powered diagnosis and medication recommendations
+<div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: flex-start;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <h2>Overview</h2>
+    <p><strong>MedFinder</strong> is an Android application designed to help users find the nearest pharmacy with available medicines, skincare products, and other health-related items.</p>
+    <ul>
+      <li>Medication reminders</li>
+      <li>Body Mass Index (BMI) and Basal Metabolic Rate (BMR) calculations</li>
+      <li>Medicine search through prescription input or image recognition</li>
+      <li>AI-powered diagnosis and medication recommendations</li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #ccc; padding: 8px; border-radius: 8px; text-align: center;">
+    <a href="https://github.com/user-attachments/assets/a63eee79-ff53-42a3-8dc8-8489f4890723" target="_blank">
+      <video src="https://github.com/user-attachments/assets/a63eee79-ff53-42a3-8dc8-8489f4890723" width="320" alt="MedFinder Demo Video"/>
+    </a>
+    <p><em>Click image to watch demo</em></p>
+  </div>
+
+</div>
 
 ## Technologies Used
 The application is built using modern Android development practices and technologies:
