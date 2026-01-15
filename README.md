@@ -1,4 +1,4 @@
-# <del>Eshfeeny</del> MedFinder Android Application
+# MedFinder Android Application
 
 <div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: flex-start;">
 
